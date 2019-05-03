@@ -7,3 +7,9 @@ Java Repo Projects
 - Spiderman
 - Shazam
 - Hulk
+
+## Favorite Shows
+
+- Game of Thrones
+- Band of Bros
+- Umbrella Academy
