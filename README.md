@@ -13,3 +13,9 @@ Java Repo Projects
 - Game of Thrones
 - Band of Bros
 - Umbrella Academy
+
+## Favorite Sports
+
+- BJJ
+- MMA
+- Soccer
